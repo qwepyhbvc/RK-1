@@ -1,0 +1,663 @@
+/usr/bin/cmake -S/home/wowtt/wowtt/workspace/projects/RK1/taskflow -B/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/CMakeFiles /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build//CMakeFiles/progress.marks
+/usr/bin/gmake  -f CMakeFiles/Makefile2 all
+gmake[1]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/simple.dir/build.make examples/CMakeFiles/simple.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/simple.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/simple.dir/build.make examples/CMakeFiles/simple.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/simple.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  2%] Built target simple
+/usr/bin/gmake  -f examples/CMakeFiles/attach_data.dir/build.make examples/CMakeFiles/attach_data.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/attach_data.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/attach_data.dir/build.make examples/CMakeFiles/attach_data.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/attach_data.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  4%] Built target attach_data
+/usr/bin/gmake  -f examples/CMakeFiles/async.dir/build.make examples/CMakeFiles/async.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/async.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/async.dir/build.make examples/CMakeFiles/async.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/async.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  5%] Built target async
+/usr/bin/gmake  -f examples/CMakeFiles/async_module.dir/build.make examples/CMakeFiles/async_module.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/async_module.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/async_module.dir/build.make examples/CMakeFiles/async_module.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/async_module.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  6%] Built target async_module
+/usr/bin/gmake  -f examples/CMakeFiles/runtime_async.dir/build.make examples/CMakeFiles/runtime_async.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/runtime_async.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/runtime_async.dir/build.make examples/CMakeFiles/runtime_async.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/runtime_async.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  8%] Built target runtime_async
+/usr/bin/gmake  -f examples/CMakeFiles/dependent_async.dir/build.make examples/CMakeFiles/dependent_async.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/dependent_async.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/dependent_async.dir/build.make examples/CMakeFiles/dependent_async.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/dependent_async.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[  9%] Built target dependent_async
+/usr/bin/gmake  -f examples/CMakeFiles/observer.dir/build.make examples/CMakeFiles/observer.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/observer.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/observer.dir/build.make examples/CMakeFiles/observer.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/observer.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 11%] Built target observer
+/usr/bin/gmake  -f examples/CMakeFiles/subflow.dir/build.make examples/CMakeFiles/subflow.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/subflow.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/subflow.dir/build.make examples/CMakeFiles/subflow.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/subflow.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 12%] Built target subflow
+/usr/bin/gmake  -f examples/CMakeFiles/fibonacci.dir/build.make examples/CMakeFiles/fibonacci.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/fibonacci.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/fibonacci.dir/build.make examples/CMakeFiles/fibonacci.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/fibonacci.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 13%] Built target fibonacci
+/usr/bin/gmake  -f examples/CMakeFiles/condition.dir/build.make examples/CMakeFiles/condition.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/condition.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/condition.dir/build.make examples/CMakeFiles/condition.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/condition.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 15%] Built target condition
+/usr/bin/gmake  -f examples/CMakeFiles/multi_condition.dir/build.make examples/CMakeFiles/multi_condition.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/multi_condition.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/multi_condition.dir/build.make examples/CMakeFiles/multi_condition.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/multi_condition.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 17%] Built target multi_condition
+/usr/bin/gmake  -f examples/CMakeFiles/switch_case.dir/build.make examples/CMakeFiles/switch_case.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/switch_case.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/switch_case.dir/build.make examples/CMakeFiles/switch_case.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/switch_case.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 19%] Built target switch_case
+/usr/bin/gmake  -f examples/CMakeFiles/do_while_loop.dir/build.make examples/CMakeFiles/do_while_loop.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/do_while_loop.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/do_while_loop.dir/build.make examples/CMakeFiles/do_while_loop.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/do_while_loop.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 21%] Built target do_while_loop
+/usr/bin/gmake  -f examples/CMakeFiles/while_loop.dir/build.make examples/CMakeFiles/while_loop.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/while_loop.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/while_loop.dir/build.make examples/CMakeFiles/while_loop.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/while_loop.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 22%] Built target while_loop
+/usr/bin/gmake  -f examples/CMakeFiles/for_loop.dir/build.make examples/CMakeFiles/for_loop.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/for_loop.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/for_loop.dir/build.make examples/CMakeFiles/for_loop.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/for_loop.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 23%] Built target for_loop
+/usr/bin/gmake  -f examples/CMakeFiles/if_else.dir/build.make examples/CMakeFiles/if_else.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/if_else.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/if_else.dir/build.make examples/CMakeFiles/if_else.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/if_else.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 25%] Built target if_else
+/usr/bin/gmake  -f examples/CMakeFiles/nested_if_else.dir/build.make examples/CMakeFiles/nested_if_else.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/nested_if_else.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/nested_if_else.dir/build.make examples/CMakeFiles/nested_if_else.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/nested_if_else.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 26%] Built target nested_if_else
+/usr/bin/gmake  -f examples/CMakeFiles/visualization.dir/build.make examples/CMakeFiles/visualization.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/visualization.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/visualization.dir/build.make examples/CMakeFiles/visualization.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/visualization.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 28%] Built target visualization
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_for.dir/build.make examples/CMakeFiles/parallel_for.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/parallel_for.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_for.dir/build.make examples/CMakeFiles/parallel_for.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/parallel_for.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 29%] Built target parallel_for
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_sort.dir/build.make examples/CMakeFiles/parallel_sort.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/parallel_sort.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_sort.dir/build.make examples/CMakeFiles/parallel_sort.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/parallel_sort.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 30%] Built target parallel_sort
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_reduce.dir/build.make examples/CMakeFiles/parallel_reduce.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/parallel_reduce.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_reduce.dir/build.make examples/CMakeFiles/parallel_reduce.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/parallel_reduce.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 31%] Built target parallel_reduce
+/usr/bin/gmake  -f examples/CMakeFiles/inclusive_scan.dir/build.make examples/CMakeFiles/inclusive_scan.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/inclusive_scan.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/inclusive_scan.dir/build.make examples/CMakeFiles/inclusive_scan.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/inclusive_scan.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 32%] Built target inclusive_scan
+/usr/bin/gmake  -f examples/CMakeFiles/exclusive_scan.dir/build.make examples/CMakeFiles/exclusive_scan.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/exclusive_scan.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/exclusive_scan.dir/build.make examples/CMakeFiles/exclusive_scan.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/exclusive_scan.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 34%] Built target exclusive_scan
+/usr/bin/gmake  -f examples/CMakeFiles/pipeline.dir/build.make examples/CMakeFiles/pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/pipeline.dir/build.make examples/CMakeFiles/pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 36%] Built target pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/scalable_pipeline.dir/build.make examples/CMakeFiles/scalable_pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/scalable_pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/scalable_pipeline.dir/build.make examples/CMakeFiles/scalable_pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/scalable_pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 37%] Built target scalable_pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/text_pipeline.dir/build.make examples/CMakeFiles/text_pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/text_pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/text_pipeline.dir/build.make examples/CMakeFiles/text_pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/text_pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 38%] Built target text_pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/taskflow_pipeline.dir/build.make examples/CMakeFiles/taskflow_pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/taskflow_pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/taskflow_pipeline.dir/build.make examples/CMakeFiles/taskflow_pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/taskflow_pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 39%] Built target taskflow_pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_graph_pipeline.dir/build.make examples/CMakeFiles/parallel_graph_pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/parallel_graph_pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_graph_pipeline.dir/build.make examples/CMakeFiles/parallel_graph_pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/parallel_graph_pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 41%] Built target parallel_graph_pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_data_pipeline.dir/build.make examples/CMakeFiles/parallel_data_pipeline.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/parallel_data_pipeline.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/parallel_data_pipeline.dir/build.make examples/CMakeFiles/parallel_data_pipeline.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/parallel_data_pipeline.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 42%] Built target parallel_data_pipeline
+/usr/bin/gmake  -f examples/CMakeFiles/run.dir/build.make examples/CMakeFiles/run.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/run.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/run.dir/build.make examples/CMakeFiles/run.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/run.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 43%] Built target run
+/usr/bin/gmake  -f examples/CMakeFiles/corun.dir/build.make examples/CMakeFiles/corun.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/corun.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/corun.dir/build.make examples/CMakeFiles/corun.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/corun.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 44%] Built target corun
+/usr/bin/gmake  -f examples/CMakeFiles/runtime.dir/build.make examples/CMakeFiles/runtime.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/runtime.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/runtime.dir/build.make examples/CMakeFiles/runtime.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/runtime.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 45%] Built target runtime
+/usr/bin/gmake  -f examples/CMakeFiles/composition.dir/build.make examples/CMakeFiles/composition.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/composition.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/composition.dir/build.make examples/CMakeFiles/composition.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/composition.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 46%] Built target composition
+/usr/bin/gmake  -f examples/CMakeFiles/limited_concurrency.dir/build.make examples/CMakeFiles/limited_concurrency.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/limited_concurrency.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/limited_concurrency.dir/build.make examples/CMakeFiles/limited_concurrency.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/limited_concurrency.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 47%] Built target limited_concurrency
+/usr/bin/gmake  -f examples/CMakeFiles/cancel.dir/build.make examples/CMakeFiles/cancel.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/cancel.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/cancel.dir/build.make examples/CMakeFiles/cancel.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/cancel.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 48%] Built target cancel
+/usr/bin/gmake  -f examples/CMakeFiles/exception.dir/build.make examples/CMakeFiles/exception.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/exception.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/exception.dir/build.make examples/CMakeFiles/exception.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/exception.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 49%] Built target exception
+/usr/bin/gmake  -f examples/CMakeFiles/subflow_exception.dir/build.make examples/CMakeFiles/subflow_exception.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/subflow_exception.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/subflow_exception.dir/build.make examples/CMakeFiles/subflow_exception.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/subflow_exception.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 50%] Built target subflow_exception
+/usr/bin/gmake  -f examples/CMakeFiles/worker_interface.dir/build.make examples/CMakeFiles/worker_interface.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/worker_interface.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/worker_interface.dir/build.make examples/CMakeFiles/worker_interface.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/worker_interface.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 52%] Built target worker_interface
+/usr/bin/gmake  -f examples/CMakeFiles/task_visitor.dir/build.make examples/CMakeFiles/task_visitor.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/task_visitor.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/task_visitor.dir/build.make examples/CMakeFiles/task_visitor.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/task_visitor.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 53%] Built target task_visitor
+/usr/bin/gmake  -f examples/CMakeFiles/tsp.dir/build.make examples/CMakeFiles/tsp.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/examples/CMakeFiles/tsp.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f examples/CMakeFiles/tsp.dir/build.make examples/CMakeFiles/tsp.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'examples/CMakeFiles/tsp.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 54%] Built target tsp
+/usr/bin/gmake  -f unittests/CMakeFiles/test_utility.dir/build.make unittests/CMakeFiles/test_utility.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_utility.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_utility.dir/build.make unittests/CMakeFiles/test_utility.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_utility.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 56%] Built target test_utility
+/usr/bin/gmake  -f unittests/CMakeFiles/test_iterators.dir/build.make unittests/CMakeFiles/test_iterators.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_iterators.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_iterators.dir/build.make unittests/CMakeFiles/test_iterators.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_iterators.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 57%] Built target test_iterators
+/usr/bin/gmake  -f unittests/CMakeFiles/test_wsq.dir/build.make unittests/CMakeFiles/test_wsq.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_wsq.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_wsq.dir/build.make unittests/CMakeFiles/test_wsq.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_wsq.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 59%] Built target test_wsq
+/usr/bin/gmake  -f unittests/CMakeFiles/test_spsc.dir/build.make unittests/CMakeFiles/test_spsc.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_spsc.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_spsc.dir/build.make unittests/CMakeFiles/test_spsc.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_spsc.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 61%] Built target test_spsc
+/usr/bin/gmake  -f unittests/CMakeFiles/test_basics.dir/build.make unittests/CMakeFiles/test_basics.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_basics.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_basics.dir/build.make unittests/CMakeFiles/test_basics.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_basics.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 63%] Built target test_basics
+/usr/bin/gmake  -f unittests/CMakeFiles/test_notifiers.dir/build.make unittests/CMakeFiles/test_notifiers.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_notifiers.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_notifiers.dir/build.make unittests/CMakeFiles/test_notifiers.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_notifiers.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 65%] Built target test_notifiers
+/usr/bin/gmake  -f unittests/CMakeFiles/test_work_stealing.dir/build.make unittests/CMakeFiles/test_work_stealing.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_work_stealing.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_work_stealing.dir/build.make unittests/CMakeFiles/test_work_stealing.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_work_stealing.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 66%] Built target test_work_stealing
+/usr/bin/gmake  -f unittests/CMakeFiles/test_workers.dir/build.make unittests/CMakeFiles/test_workers.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_workers.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_workers.dir/build.make unittests/CMakeFiles/test_workers.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_workers.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 67%] Built target test_workers
+/usr/bin/gmake  -f unittests/CMakeFiles/test_asyncs.dir/build.make unittests/CMakeFiles/test_asyncs.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_asyncs.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_asyncs.dir/build.make unittests/CMakeFiles/test_asyncs.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_asyncs.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 69%] Built target test_asyncs
+/usr/bin/gmake  -f unittests/CMakeFiles/test_dependent_asyncs.dir/build.make unittests/CMakeFiles/test_dependent_asyncs.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_dependent_asyncs.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_dependent_asyncs.dir/build.make unittests/CMakeFiles/test_dependent_asyncs.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_dependent_asyncs.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 70%] Built target test_dependent_asyncs
+/usr/bin/gmake  -f unittests/CMakeFiles/test_subflows.dir/build.make unittests/CMakeFiles/test_subflows.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_subflows.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_subflows.dir/build.make unittests/CMakeFiles/test_subflows.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_subflows.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 71%] Built target test_subflows
+/usr/bin/gmake  -f unittests/CMakeFiles/test_control_flow.dir/build.make unittests/CMakeFiles/test_control_flow.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_control_flow.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_control_flow.dir/build.make unittests/CMakeFiles/test_control_flow.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_control_flow.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 72%] Built target test_control_flow
+/usr/bin/gmake  -f unittests/CMakeFiles/test_semaphores.dir/build.make unittests/CMakeFiles/test_semaphores.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_semaphores.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_semaphores.dir/build.make unittests/CMakeFiles/test_semaphores.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_semaphores.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 73%] Built target test_semaphores
+/usr/bin/gmake  -f unittests/CMakeFiles/test_movable.dir/build.make unittests/CMakeFiles/test_movable.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_movable.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_movable.dir/build.make unittests/CMakeFiles/test_movable.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_movable.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 74%] Built target test_movable
+/usr/bin/gmake  -f unittests/CMakeFiles/test_cancellation.dir/build.make unittests/CMakeFiles/test_cancellation.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_cancellation.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_cancellation.dir/build.make unittests/CMakeFiles/test_cancellation.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_cancellation.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 75%] Built target test_cancellation
+/usr/bin/gmake  -f unittests/CMakeFiles/test_for_each.dir/build.make unittests/CMakeFiles/test_for_each.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_for_each.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_for_each.dir/build.make unittests/CMakeFiles/test_for_each.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_for_each.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 77%] Built target test_for_each
+/usr/bin/gmake  -f unittests/CMakeFiles/test_reduce.dir/build.make unittests/CMakeFiles/test_reduce.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_reduce.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_reduce.dir/build.make unittests/CMakeFiles/test_reduce.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_reduce.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 78%] Built target test_reduce
+/usr/bin/gmake  -f unittests/CMakeFiles/test_transform.dir/build.make unittests/CMakeFiles/test_transform.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_transform.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_transform.dir/build.make unittests/CMakeFiles/test_transform.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_transform.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 80%] Built target test_transform
+/usr/bin/gmake  -f unittests/CMakeFiles/test_sort.dir/build.make unittests/CMakeFiles/test_sort.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_sort.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_sort.dir/build.make unittests/CMakeFiles/test_sort.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_sort.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 81%] Built target test_sort
+/usr/bin/gmake  -f unittests/CMakeFiles/test_scan.dir/build.make unittests/CMakeFiles/test_scan.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_scan.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_scan.dir/build.make unittests/CMakeFiles/test_scan.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_scan.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 83%] Built target test_scan
+/usr/bin/gmake  -f unittests/CMakeFiles/test_find.dir/build.make unittests/CMakeFiles/test_find.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_find.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_find.dir/build.make unittests/CMakeFiles/test_find.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_find.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 84%] Built target test_find
+/usr/bin/gmake  -f unittests/CMakeFiles/test_modules.dir/build.make unittests/CMakeFiles/test_modules.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_modules.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_modules.dir/build.make unittests/CMakeFiles/test_modules.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_modules.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 85%] Built target test_modules
+/usr/bin/gmake  -f unittests/CMakeFiles/test_merge.dir/build.make unittests/CMakeFiles/test_merge.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_merge.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_merge.dir/build.make unittests/CMakeFiles/test_merge.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_merge.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 87%] Built target test_merge
+/usr/bin/gmake  -f unittests/CMakeFiles/test_traversals.dir/build.make unittests/CMakeFiles/test_traversals.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_traversals.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_traversals.dir/build.make unittests/CMakeFiles/test_traversals.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_traversals.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 88%] Built target test_traversals
+/usr/bin/gmake  -f unittests/CMakeFiles/test_runtimes.dir/build.make unittests/CMakeFiles/test_runtimes.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_runtimes.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_runtimes.dir/build.make unittests/CMakeFiles/test_runtimes.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_runtimes.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 90%] Built target test_runtimes
+/usr/bin/gmake  -f unittests/CMakeFiles/test_task_group.dir/build.make unittests/CMakeFiles/test_task_group.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_task_group.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_task_group.dir/build.make unittests/CMakeFiles/test_task_group.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_task_group.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 91%] Built target test_task_group
+/usr/bin/gmake  -f unittests/CMakeFiles/test_pipelines.dir/build.make unittests/CMakeFiles/test_pipelines.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_pipelines.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_pipelines.dir/build.make unittests/CMakeFiles/test_pipelines.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_pipelines.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 92%] Built target test_pipelines
+/usr/bin/gmake  -f unittests/CMakeFiles/test_scalable_pipelines.dir/build.make unittests/CMakeFiles/test_scalable_pipelines.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_scalable_pipelines.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_scalable_pipelines.dir/build.make unittests/CMakeFiles/test_scalable_pipelines.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_scalable_pipelines.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 93%] Built target test_scalable_pipelines
+/usr/bin/gmake  -f unittests/CMakeFiles/test_data_pipelines.dir/build.make unittests/CMakeFiles/test_data_pipelines.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_data_pipelines.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_data_pipelines.dir/build.make unittests/CMakeFiles/test_data_pipelines.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_data_pipelines.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 95%] Built target test_data_pipelines
+/usr/bin/gmake  -f unittests/CMakeFiles/test_atomic_intrusive_stack.dir/build.make unittests/CMakeFiles/test_atomic_intrusive_stack.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_atomic_intrusive_stack.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_atomic_intrusive_stack.dir/build.make unittests/CMakeFiles/test_atomic_intrusive_stack.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_atomic_intrusive_stack.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 96%] Built target test_atomic_intrusive_stack
+/usr/bin/gmake  -f unittests/CMakeFiles/test_fill.dir/build.make unittests/CMakeFiles/test_fill.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_fill.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_fill.dir/build.make unittests/CMakeFiles/test_fill.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_fill.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 98%] Built target test_fill
+/usr/bin/gmake  -f unittests/CMakeFiles/test_generate.dir/build.make unittests/CMakeFiles/test_generate.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_generate.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_generate.dir/build.make unittests/CMakeFiles/test_generate.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_generate.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[ 99%] Built target test_generate
+/usr/bin/gmake  -f unittests/CMakeFiles/test_exceptions.dir/build.make unittests/CMakeFiles/test_exceptions.dir/depend
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+cd /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/wowtt/wowtt/workspace/projects/RK1/taskflow /home/wowtt/wowtt/workspace/projects/RK1/taskflow/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/unittests/CMakeFiles/test_exceptions.dir/DependInfo.cmake "--color="
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/gmake  -f unittests/CMakeFiles/test_exceptions.dir/build.make unittests/CMakeFiles/test_exceptions.dir/build
+gmake[2]: Entering directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+gmake[2]: Nothing to be done for 'unittests/CMakeFiles/test_exceptions.dir/build'.
+gmake[2]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+[100%] Built target test_exceptions
+gmake[1]: Leaving directory '/home/wowtt/wowtt/workspace/projects/RK1/taskflow/build'
+/usr/bin/cmake -E cmake_progress_start /home/wowtt/wowtt/workspace/projects/RK1/taskflow/build/CMakeFiles 0
